@@ -4,6 +4,8 @@
 
 ## Build Setup
 
+nxp create-nuxt-app@2.*
+
 ```bash
 # install dependencies
 $ npm install
